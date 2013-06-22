@@ -1,0 +1,37 @@
+<blockquote><i>We need not, therefore, wonder at all that so much as been written on this Subject, so many undertakings set on Foot, such a variety of Attempts made on all sides, and by all means, to come at this North-West Passage; since, in respect to this Part of Europe, it would be a kind of maritime Philosopher's Stone.</i>
+<p>John Harris, Navigantium atque itinerantium bibliotheca, or, A compleat collection of voyages and travels,  1 edition, London, 1764 p. 4002.</p>
+</blockquote>
+
+
+
+<p>Modern scientists and biologists use big data analytic tools to inspect the Oceans, but which instruments used the past men of science? Why not combine these results? In order to understand, for instance, why no one has been able to sail the Northwest passage before Roald Amundsen (1903), should be interesting to analyze the past weather observations and compare them with the most recent measures. It was simply due to the inappropriate ships? How have climate changes in the Arctic affected the relationship between humans and nature? Why tourist cruisers can easily sail through the passage today from Greenland to Alaska?</p>
+
+ 
+<p>The Northwest Passage, a direct shipping route from Europe to Asia across the Arctic Ocean, is one of the most affected places by the climate changes. It is a matter of great importance for the countries crossed, and it was the dream pursued by Cabot, John Franklin and all the others who ventured to explore "the sea of ice".</p> 
+
+<p>Scientists and sailors kept handwritten journals and logbooks to record the weather and environmental conditions they encountered on their travels for centuries. These documents are accessible online and provide unique information about the history of the Arctic climate.</p>
+
+<p>Purpose of the project is to combine the following dataset and unstructured data, focusing on the arctic area:</p> 
+
+<ul>
+
+<li> <a href="http://www.knmi.nl/cliwoc/index.htm">The Climatological database for the world's oceans (CLIWOC)</a> for the period 1750-1854, extracting the information related to the temperatures, wind direction, wind force, precipitation, fog, ice cover and state of sea and sky.
+
+<p><img height="300px" src="http://www.knmi.nl/cliwoc/images/1790-1799.jpg"/>
+<blockquote><i>CLIWOC ships global distribution map (1790-1799)</i></blockquote></p>
+
+
+<li> <a href="http://www.oldweather.org/">Old Weather project</a> using historic ship logs that contains worldwide weather observations made by US Navy and Coast Guard ships. 
+
+<p><img height="300px" src="http://www.cosmik.com/oldweather/unalgaII001.jpg"/>
+<blockquote><i>USCGC Unalga II logsbook page - 1946</i></blockquote></p>
+
+
+<li>  Voyage journals of the explorers that attempted the passage. The commercially and strategically advantageous seaway have become the symbol of the struggle between the best of Western civilization and nature, pitting courage and technology against the rigours of the Arctic environment. This stimulated the publication of numerous reports that today are available on <a href="http://openlibrary.org/">http://openlibrary.org/</a>.  For instance <a href="http://www.archive.org/stream/cihm_40349#page/n515/mode/2up"> the Journal of a voyage to the northern whale-fishery</a> contains several meteorological tables related to 1822. 
+<p><img height="400px" src="https://github.com/enr74/marinexplore/blob/master/table.jpg?raw=true"/><blockquote>Meteorological table including the daily latitude and longitude of the ship in <i>Journal of a voyage to the northern whale-fishery.</i></blockquote></p>	
+
+<li> Maps showing the distribution of Arctic sea ice based on reports sent to the institutes from ship captains and observers on land. For instance <a href="http://www.pmel.noaa.gov/arctic/rediscover/dmi_sea_ice_maps/"> The Danish Meteorological Institute (DMI) (1893-1956)</a>
+<p><img height="300px" src="https://github.com/enr74/marinexplore/blob/master/nautical-annual.jpg?raw=true"/><blockquote><i>Nautical Meteorological Annual 1903</i></blockquote></p>
+<li>The MarineExplore dataset related to the Northwest passage. 
+
+</ul>
